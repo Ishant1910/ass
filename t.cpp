@@ -1,6 +1,6 @@
 // calculator.c
 #include <stdio.h>
-#include <math.h>
+#include <math.h> // thsi are the header files
 
 int main() {
     int a = 2, b = 3;
